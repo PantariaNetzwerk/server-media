@@ -1,0 +1,45 @@
+{
+    "server_name": "Pantaria",
+    "nice_name": "Pantaria",
+    "direct_ip": "pantaria.net",
+    "server_wildcards": [
+        "pantaria.laby.net"
+    ],
+    "supported_languages": [
+        "en",
+        "de"
+    ],
+    "social": {
+        "web": "https://pantaria.net",
+        "web_shop": "https://pantaria.net/shop",
+        "web_support": "https://pantaria.net/support",
+        "twitter": "Pantaria",
+        "tiktok": "Pantaria.net",
+        "instagram": "Pantaria",
+        "discord": "https://discord.gg/pantaria",
+        "youtube": "https://www.youtube.com/@Pantaria-Netzwerk",
+        "teamspeak": "ts.pantaria.net"
+    },
+    "gamemodes": {
+        "jumpworld": {
+            "name": "CityBuild",
+            "color": "#0093FF",
+            "command": "/switch cb",
+            "versions": "1.21.4<*"
+        }
+    },
+    "chat": {
+        "message_formats": [
+            "^§[a-f0-9](?<level>\\d+)( \\||§8 \\|) §[a-f0-9](?<sender>[a-zA-Z0-9_]{2,16})§r§7: §f(?<message>.*)$"
+        ]
+    },
+    "brand": {
+        "primary": "#008FE8",
+        "background": "#0A56A5",
+        "text": "#FFFFFF"
+    },
+    "location": {
+        "city": "Falkenstein",
+        "country": "Germany"
+    }
+}
