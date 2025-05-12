@@ -21,7 +21,7 @@
         "teamspeak": "ts.pantaria.net"
     },
     "gamemodes": {
-        "jumpworld": {
+        "citybuild": {
             "name": "CityBuild",
             "color": "#0093FF",
             "command": "/switch cb",
